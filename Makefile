@@ -35,7 +35,7 @@ DEP_BUILD_LIST = \
 SYS_INC_DIRS  =
 SYS_LIBS_DIRS =
 
-# List of libraries to be compiled and linked statically. This can only be used for Wescam code, BSD and other similar permissively-licensed software
+# List of libraries to be compiled and linked statically. This can only be used for BSD and other similar permissively-licensed software
 # example: SYS_STAT_LIBS_LIST = Wire Audio
 SYS_STAT_LIBS_LIST =
 
